@@ -1,0 +1,22 @@
+{
+  "name": "jekyll-testing",
+  "version": "0.0.1",
+  "description": "This is a simple jekyll instance to run automatic testings",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BriceAubert/jekyll-testing.git"
+  },
+  "author": "Brice AUBERT (TUGBOT)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BriceAubert/jekyll-testing/issues"
+  },
+  "homepage": "https://github.com/BriceAubert/jekyll-testing#readme"
+}
